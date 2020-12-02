@@ -11,7 +11,22 @@ const mix = require('laravel-mix');
  |
  */
 
+mix.styles([
+    'resources/css/1140_flex.css',
+    'resources/css/1140_basic.css',
+    'resources/css/dropdown.css',
+    'resources/css/jquery.fancybox.css',
+    'resources/css/layout.css',
+    'resources/css/media.css',
+    'resources/css/owl.carousel.css',
+    'resources/css/stylesheet.css'
+], 'public/css/app.css');
+
+
 mix.js('resources/js/app.js', 'public/js')
     .postCss('resources/css/app.css', 'public/css', [
         //
     ]);
+
+
+

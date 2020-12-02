@@ -14,5 +14,16 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('/front/home');
 });
+
+Route::get('divination-yes-no', function () {
+    return view('/front/divination/yes');
+});
+
+//to do
+//скорее всего проблема в путях
+
+//Route::get('/', 'front.MainController@home');
+
+//Route::get('divination-yes-no', 'MainController@yes');
