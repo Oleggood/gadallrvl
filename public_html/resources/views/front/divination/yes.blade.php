@@ -49,7 +49,13 @@
                         <p class="text-center color-white fw700 fz20 mb20 gadanblock__right_header">Результат гадания</p>
                         <div class="gadanblock__right-shar">
                             <div class="gadanblock__right-window">
-
+                                <!--анимированный текст-->
+                                <div class="centera">
+                                    <p id="text" class="centera__txt">
+                                        Lorem ipsum dolor
+                                    </p>
+                                </div>
+                                <!--анимированный текст-->
                             </div>
                         </div>
                     </div>

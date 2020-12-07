@@ -272,7 +272,7 @@
 <script src="{{ url('/js/jquery.fancybox.min.js') }}" type="text/javascript"></script>
 <script src="{{ url('/js/owl.carousel.min.js') }}" type="text/javascript"></script>
 <script src="{{ url('/js/jquery.mask.min.js') }}" type="text/javascript"></script>
-<script src="{{ url('./js/common.js') }}" type="text/javascript"></script>
+<script src="{{ url('./js/common.js') }}" type="text/javascript"></script><script src="{{ url('./js/animationtxt.js') }}" type="text/javascript"></script>
 
 
 
