@@ -155,8 +155,6 @@
 
 
 
-
-
 <footer>
     <div class="footer1">
         <div class="container">
