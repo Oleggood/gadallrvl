@@ -22,8 +22,6 @@ Route::get('divination-yes-no', function () {
 });
 
 //to do
-//скорее всего проблема в путях
-
-//Route::get('/', 'front.MainController@home');
-
+//Route::get('/', 'App/Http/Controllers/Front/MainController@home');
+//
 //Route::get('divination-yes-no', 'MainController@yes');

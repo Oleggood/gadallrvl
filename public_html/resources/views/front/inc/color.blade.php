@@ -1,4 +1,4 @@
-@section('question1')
+
     <!--color-->
     <p class="color-gray fz16 lh14 mb20 fontmediavid"><span class="color-gold"></span>Выберите <span class="color-gold">цвет</span>.</p>
     <div class="flex mb40">
