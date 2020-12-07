@@ -32,10 +32,16 @@
                     <p class="color-gray fz16 lh14 fontmediavid"><span class="color-gold"></span>Прежде всего постарайтесь <span class="color-gold">расслабиться</span>, <span class="color-gold">сосредоточтесь</span> на теме гадания.</p>
                     <p class="color-gray fz16 lh14 mb20 fontmediavid"><span class="color-gold">Не задумывайтесь</span> долго над ответами.</p>
                 @include('front.inc.color')
+                @include('front.inc.day_week')
+                @include('front.inc.meaning_data')
+                @include('front.inc.my_name')
 
 
-
+                    <div class="gadanblock__button-wrap">
+                        <button type="submit" class="btn">Гадать</button>
+                    </div>
                 </div>
+
                 <!--левый блок-->
 
                     <!--правый блок-->

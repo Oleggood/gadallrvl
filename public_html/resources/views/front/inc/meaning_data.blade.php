@@ -28,7 +28,5 @@
         </div>
     </div>
 </div>
-<div class="gadanblock__button-wrap">
-    <button type="submit" class="btn">Гадать</button>
-</div>
+
 <!--2 meaning data-->
